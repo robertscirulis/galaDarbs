@@ -11,5 +11,4 @@ function regSuc(){
     if (x == ""){
         alert("Registration successful!");
     } 
-    
 }

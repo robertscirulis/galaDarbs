@@ -10,6 +10,5 @@ function regSuc(){
     var x = document.getElementsByClassName(".reg-box").value;
     if (x == ""){
         alert("Registration successful!");
-    } 
-    
+    }
 }
